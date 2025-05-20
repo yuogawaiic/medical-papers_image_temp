@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- background -->
+  <rect width="800" height="600" fill="#f8f9fa" />
+  
+  <!-- title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">
+    秋田県大腸内視鏡検査スクリーニング試験
+  </text>
+  
+  <!-- study design box -->
+  <rect x="50" y="70" width="700" height="70" rx="10" fill="#e6f3ff" stroke="#2980b9" stroke-width="2" />
+  <text x="400" y="105" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#2980b9">
+    研究デザイン：人口ベースのランダム化比較試験（RCT、説明的試験デザイン）
+  </text>
+  <text x="400" y="125" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#333">
+    対象：大腸がんの平均的リスクを持つ40〜74歳の日本人男女 9,751人
+  </text>
+  
+  <!-- flow chart -->
+  <rect x="150" y="160" width="500" height="50" rx="10" fill="#f5f5f5" stroke="#333" stroke-width="2" />
+  <text x="400" y="190" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#333">
+    参加者 9,751人
+  </text>
+  
+  <line x1="400" y1="210" x2="400" y2="230" stroke="#333" stroke-width="2" />
+  <text x="400" y="230" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#333">
+    ランダム化
+  </text>
+  
+  <line x1="400" y1="230" x2="250" y2="260" stroke="#333" stroke-width="2" />
+  <line x1="400" y1="230" x2="550" y2="260" stroke="#333" stroke-width="2" />
+  
+  <rect x="100" y="260" width="300" height="50" rx="10" fill="#d5f5e3" stroke="#27ae60" stroke-width="2" />
+  <text x="250" y="290" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#333">
+    介入群 4,876人
+  </text>
+  
+  <rect x="400" y="260" width="300" height="50" rx="10" fill="#f2dede" stroke="#c0392b" stroke-width="2" />
+  <text x="550" y="290" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#333">
+    対照群 4,875人
+  </text>
+  
+  <line x1="250" y1="310" x2="250" y2="330" stroke="#333" stroke-width="2" />
+  
+  <rect x="100" y="330" width="300" height="50" rx="10" fill="#d5f5e3" stroke="#27ae60" stroke-width="2" />
+  <text x="250" y="360" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#333">
+    同意撤回後 4,861人
+  </text>
+  
+  <line x1="250" y1="380" x2="250" y2="400" stroke="#333" stroke-width="2" />
+  
+  <rect x="100" y="400" width="300" height="50" rx="10" fill="#d5f5e3" stroke="#27ae60" stroke-width="2" />
+  <text x="250" y="430" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#333">
+    大腸内視鏡検査実施 4,495人 (92.5%)
+  </text>
+  
+  <!-- results box -->
+  <rect x="50" y="470" width="700" height="110" rx="10" fill="#fff9e6" stroke="#f39c12" stroke-width="2" />
+  <text x="400" y="495" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#f39c12">
+    主な結果
+  </text>
+  <text x="70" y="520" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • アデノーマ検出率（ADR）: 39.4%（1,770/4,495）
+  </text>
+  <text x="70" y="545" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • 大腸がん診断: 0.6%（27/4,495）、進行腫瘍（AN）: 5.9%（266/4,495）
+  </text>
+  <text x="70" y="570" font-family="Arial, sans-serif" font-size="14" fill="#333">
+    • 女性では近位結腸に病変が多い傾向（アデノーマ: 近位18.9% vs 遠位16.4%, p=0.024）
+  </text>
+  
+  <!-- Safe block -->
+  <rect x="450" y="520" width="285" height="50" rx="10" fill="#e8f8f5" stroke="#16a085" stroke-width="2" />
+  <text x="592" y="550" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#16a085">
+    安全性：重篤な有害事象なし、軽微な有害事象0.04%
+  </text>
+</svg>
