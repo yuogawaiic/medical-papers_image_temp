@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2c3e50">
+    大腸粘膜内癌（IMC）vs 高異形度異型症（HGD）vs T1大腸癌の臨床管理比較
+  </text>
+  
+  <!-- Study info -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    多施設コホート研究 (2010-2019年、カナダ3病院、n=753)
+  </text>
+  
+  <!-- Three groups boxes -->
+  <!-- HGD Group -->
+  <g>
+    <rect x="50" y="80" width="220" height="160" fill="#e8f5e8" stroke="#27ae60" stroke-width="2" rx="10"/>
+    <text x="160" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#27ae60">
+      HGD群 (n=269)
+    </text>
+    <text x="60" y="120" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      内視鏡完全切除後:
+    </text>
+    <text x="60" y="135" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      手術率: 0% (0/544)
+    </text>
+    <text x="60" y="150" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      同時性進行腫瘍: 24.2%
+    </text>
+    <text x="60" y="165" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      異時性進行腫瘍: 26.8%
+    </text>
+    <text x="60" y="180" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      リンパ節転移: 0%
+    </text>
+    <text x="60" y="195" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      遠隔転移: 0%
+    </text>
+    <text x="60" y="210" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      追跡期間: 中央値3.4年
+    </text>
+  </g>
+  
+  <!-- IMC Group -->
+  <g>
+    <rect x="290" y="80" width="220" height="160" fill="#fff3cd" stroke="#f39c12" stroke-width="2" rx="10"/>
+    <text x="400" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f39c12">
+      IMC群 (n=60)
+    </text>
+    <text x="300" y="120" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      内視鏡完全切除後:
+    </text>
+    <text x="300" y="135" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c" font-weight="bold">
+      手術率: 10.5% (6/57) ★
+    </text>
+    <text x="300" y="150" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      同時性進行腫瘍: 26.7%
+    </text>
+    <text x="300" y="165" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      異時性進行腫瘍: 18.3%
+    </text>
+    <text x="300" y="180" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      リンパ節転移: 0% (0/363)
+    </text>
+    <text x="300" y="195" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      遠隔転移: 0%
+    </text>
+    <text x="300" y="210" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      リンパ管侵襲: 3.1%
+    </text>
+  </g>
+  
+  <!-- T1 CRC Group -->
+  <g>
+    <rect x="530" y="80" width="220" height="160" fill="#ffe6e6" stroke="#e74c3c" stroke-width="2" rx="10"/>
+    <text x="640" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#e74c3c">
+      T1 CRC群 (n=126)
+    </text>
+    <text x="540" y="120" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      手術率: 84.1%
+    </text>
+    <text x="540" y="135" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      同時性進行腫瘍: 25.4%
+    </text>
+    <text x="540" y="150" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      異時性進行腫瘍: 20.6%
+    </text>
+    <text x="540" y="165" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c" font-weight="bold">
+      リンパ節転移: 5.6%
+    </text>
+    <text x="540" y="180" font-family="Arial, sans-serif" font-size="11" fill="#e74c3c" font-weight="bold">
+      遠隔転移: 2.4%
+    </text>
+    <text x="540" y="195" font-family="Arial, sans-serif" font-size="11" fill="#2c3e50">
+      リンパ管・血管侵襲: 13.5%
+    </text>
+  </g>
+  
+  <!-- Key Finding Box -->
+  <g>
+    <rect x="50" y="260" width="700" height="100" fill="#f0f8ff" stroke="#3498db" stroke-width="2" rx="10"/>
+    <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3498db">
+      主要な発見
+    </text>
+    <text x="60" y="300" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • IMC患者はHGD患者と比較して内視鏡完全切除後の手術率が有意に高い (P &lt; .001)
+    </text>
+    <text x="60" y="315" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • 同時性・異時性進行腫瘍のリスクは3群間で類似
+    </text>
+    <text x="60" y="330" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • IMCのリンパ節転移リスクは極めて低い（0%）
+    </text>
+    <text x="60" y="345" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • 調整ハザード比: IMC vs HGD 0.82 (95%CI: 0.43-1.59)
+    </text>
+  </g>
+  
+  <!-- Clinical Recommendation -->
+  <g>
+    <rect x="50" y="380" width="700" height="80" fill="#e8f6f3" stroke="#16a085" stroke-width="2" rx="10"/>
+    <text x="400" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#16a085">
+      臨床的推奨
+    </text>
+    <text x="60" y="420" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • IMCの内視鏡完全切除は定治療として十分（手術不要）
+    </text>
+    <text x="60" y="435" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • 患者がリンパ節転移の小さなリスク（0-2%）を強く懸念する場合を除き、追加手術は推奨されない
+    </text>
+    <text x="60" y="450" font-family="Arial, sans-serif" font-size="12" fill="#2c3e50">
+      • HGDとIMCの臨床管理は同等とすべき
+    </text>
+  </g>
+  
+  <!-- Study Design Info -->
+  <g>
+    <rect x="50" y="480" width="700" height="60" fill="#faf2f2" stroke="#7f8c8d" stroke-width="1" rx="5"/>
+    <text x="400" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7f8c8d">
+      研究デザイン：多施設コホート研究
+    </text>
+    <text x="60" y="515" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+      対象: 2010-2019年、カナダ3病院、追跡期間中央値3.4年
+    </text>
+    <text x="60" y="530" font-family="Arial, sans-serif" font-size="11" fill="#7f8c8d">
+      多変量解析で年齢、家族歴、病変特性、切除方法などを調整
+    </text>
+  </g>
+  
+  <!-- Statistical significance arrow -->
+  <path d="M 270 140 Q 290 120 310 140" stroke="#e74c3c" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e74c3c"/>
+    </marker>
+  </defs>
+  
+  <!-- Legend -->
+  <text x="60" y="570" font-family="Arial, sans-serif" font-size="10" fill="#666">
+    ★ 統計学的有意差 (P &lt; 0.001)
+  </text>
+</svg>
